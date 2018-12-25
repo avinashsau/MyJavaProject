@@ -21,15 +21,50 @@ public class Add {
 //        System.out.println(5+15/3*2-8%3);
 
     //4. Get inputs and add the two numbers
-        Scanner in=new Scanner(System.in);
-        
-        System.out.println("Enter the First Number: ");
-        int num1 = in.nextInt();
-        System.out.println("Enter the Second Number: ");
-        int num2 = in.nextInt();
-        System.out.println(num1 + " * " + num2 + " = " + num1*num2);
-        System.out.println(num1 + " + " + num2 + " = " + (num1+num2));
-        System.out.println(num1 + " - " + num2 + " = " + (num1-num2));
-        System.out.println(num1 + " / " + num2 + " = " + (num1/num2));
+//        Scanner in=new Scanner(System.in);
+//        
+//        System.out.println("Enter the First Number: ");
+//        int num1 = in.nextInt();
+//        System.out.println("Enter the Second Number: ");
+//        int num2 = in.nextInt();
+//        System.out.println(num1 + " * " + num2 + " = " + num1*num2);
+//        System.out.println(num1 + " + " + num2 + " = " + (num1+num2));
+//        System.out.println(num1 + " - " + num2 + " = " + (num1-num2));
+//        System.out.println(num1 + " / " + num2 + " = " + (num1/num2));
+
+// calculate the value of the Expression
+//        System.out.println(((25.5*3.5-3.5*3.5)/(40.5-4.5)));
+
+// Circle 
+//        Scanner obj1=new Scanner(System.in);
+//        System.out.println("Please Enter the Redius of Circle: ");
+//        int num1=obj1.nextInt();
+//        System.out.println("Circle Area: " + 3.14*num1*num1);
+//        System.out.println("Circle Perimeter: " + 2*3.14*num1);
+
+// Average of three numbers
+//        Scanner obj1=new Scanner(System.in);
+//        System.out.println("First Number: ");
+//        int num1=obj1.nextInt();
+//        System.out.println("Second Number: ");
+//        int num2=obj1.nextInt();
+//        System.out.println("Third Number: ");
+//        int num3=obj1.nextInt();
+//        System.out.println("The Average of all three numbers are: " + (num1+num2+num3)/3 );
+
+//  Swap the Variable 
+//        Scanner obj1=new Scanner(System.in);
+//        System.out.println("num1: ");
+//        int num1=obj1.nextInt();
+//        System.out.println("num2: ");
+//        int num2=obj1.nextInt();
+////        int tmp=num1;
+////        num1=num2;
+////        num2=tmp;
+////        System.out.println("num1: " + num1 + " num2: " + num2);
+//
+////  OR
+//        System.out.println("num1: " + (num1+num2-num1) + " num2: " + (num2+num1-num2));
+
     }
 }
